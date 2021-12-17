@@ -1,0 +1,62 @@
+[1] Wankmüller, F., Thimmapuram, P. R., Gallagher, K. G., & Botterud, A. (2017). Impact of battery degradation on energy arbitrage revenue of grid-level energy storage. Journal of Energy Storage, 10, 56-66.
+@article{wankmuller2017impact,
+  title={Impact of battery degradation on energy arbitrage revenue of grid-level energy storage},
+  author={Wankm{\"u}ller, Florian and Thimmapuram, Prakash R and Gallagher, Kevin G and Botterud, Audun},
+  journal={Journal of Energy Storage},
+  volume={10},
+  pages={56--66},
+  year={2017},
+  publisher={Elsevier}
+}
+[2] Sayfutdinov, T., Patsios, C., Vorobev, P., Gryazina, E., Greenwood, D. M., Bialek, J. W., & Taylor, P. C. (2019). Degradation and Operation-Aware Framework for the Optimal Siting, Sizing, and Technology Selection of Battery Storage. IEEE Transactions on Sustainable Energy, 11(4), 2130-2140.
+@article{sayfutdinov2019degradation,
+  title={Degradation and Operation-Aware Framework for the Optimal Siting, Sizing, and Technology Selection of Battery Storage},
+  author={Sayfutdinov, Timur and Patsios, Charalampos and Vorobev, Petr and Gryazina, Elena and Greenwood, David M and Bialek, Janusz W and Taylor, Philip C},
+  journal={IEEE Transactions on Sustainable Energy},
+  volume={11},
+  number={4},
+  pages={2130--2140},
+  year={2019},
+  publisher={IEEE}
+}
+[3] Jin, X., Vora, A., Hoshing, V., Saha, T., Shaver, G., Wasynczuk, O., & Varigonda, S. (2018). Applicability of available Li-ion battery degradation models for system and control algorithm design. Control Engineering Practice, 71, 1-9.
+@article{jin2018applicability,
+  title={Applicability of available Li-ion battery degradation models for system and control algorithm design},
+  author={Jin, Xing and Vora, Ashish and Hoshing, Vaidehi and Saha, Tridib and Shaver, Gregory and Wasynczuk, Oleg and Varigonda, Subbarao},
+  journal={Control Engineering Practice},
+  volume={71},
+  pages={1--9},
+  year={2018},
+  publisher={Elsevier}
+}
+[4] Sayfutdinov, T., Patsios, C., Bialek, J. W., Greenwood, D. M., & Taylor, P. C. (2018). Incorporating variable lifetime and self-discharge into optimal sizing and technology selection of energy storage systems. IET smart grid, 1(1), 11-18.
+@article{sayfutdinov2018incorporating,
+  title={Incorporating variable lifetime and self-discharge into optimal sizing and technology selection of energy storage systems},
+  author={Sayfutdinov, Timur and Patsios, Charalampos and Bialek, Janusz W and Greenwood, David M and Taylor, Phil C},
+  journal={IET smart grid},
+  volume={1},
+  number={1},
+  pages={11--18},
+  year={2018},
+  publisher={IET}
+}
+[5] Ibanez, F. M., Ahmed, T., Idrisov, I., & Gutierrez, J. S. (2019, November). An Impedance Based Modeling Towards the Aging Prediction of Lithium-Ion Battery for EV Applications. In 2019 8th International Conference on Renewable Energy Research and Applications (ICRERA) (pp. 146-151). IEEE.
+@inproceedings{ibanez2019impedance,
+  title={An Impedance Based Modeling Towards the Aging Prediction of Lithium-Ion Battery for EV Applications},
+  author={Ibanez, Federico Martin and Ahmed, Tanvir and Idrisov, Ildar and Gutierrez, Jose Sebastian},
+  booktitle={2019 8th International Conference on Renewable Energy Research and Applications (ICRERA)},
+  pages={146--151},
+  year={2019},
+  organization={IEEE}
+}
+[6] Gonzalez-Castellanos, A. J., Pozo, D., & Bischi, A. (2019). Non-ideal linear operation model for li-ion batteries. IEEE Transactions on Power Systems, 35(1), 672-682.
+@article{gonzalez2019non,
+  title={Non-ideal linear operation model for li-ion batteries},
+  author={Gonzalez-Castellanos, Alvaro Jose and Pozo, David and Bischi, Aldo},
+  journal={IEEE Transactions on Power Systems},
+  volume={35},
+  number={1},
+  pages={672--682},
+  year={2019},
+  publisher={IEEE}
+}
